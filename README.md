@@ -1,2 +1,2 @@
-live demo: https://lynnx17.github.io/Business-Card/
+live demo: https://lynnx17.github.io/lynnx17/
 
