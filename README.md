@@ -4,6 +4,7 @@ During my Media Editing studies, I refined my skill set—from drafting concepts
 At the same time, I discovered my love for programming—a discipline where creativity and logic converge and where growth never stops. I’m eager to dive deeper and keep exploring this field! 🔍
 
 ✅ **HTML, CSS**
+
 📘 **JavaScrip, React**
 
 *This business card was created as part of Scrimba’s Frontend Developer Career Path.*
